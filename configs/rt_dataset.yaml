@@ -1,0 +1,14 @@
+path: /absolute/path/to/bordertree_self
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: Cinnamomum camphora
+  1: Ligustrum lucidum
+  2: Magnolia grandiflora
+  3: Osmanthus fragrans
+  4: Lagerstroemia indica
+  5: Juniperus chinensis "Pyramidalis"
+  6: Pyrus pyrifolia
+  7: Sophora japonica

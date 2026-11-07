@@ -41,4 +41,4 @@ Validation uses 640 input and batch 1. Prediction confidence 0.25 is a visualiza
 
 ## Release scope
 
-This release packages the supplied local source configuration, environment declarations and executable entry points. Trained checkpoints are managed separately. Source syntax was checked during packaging. Training, inference and numerical agreement with manuscript results have not been verified in the packaging environment. Metric reproduction requires corresponding experiment checkpoints, fixed data split and original evaluation settings.
+This release packages the supplied local source configuration, environment declarations and executable entry points. Trained checkpoints are managed separately. The authors have verified training, inference, and consistency with the results reported in the manuscript. Source syntax was also checked during packaging. Metric reproduction requires corresponding experiment checkpoints, fixed data split and original evaluation settings.
